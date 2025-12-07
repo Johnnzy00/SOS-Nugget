@@ -12,10 +12,7 @@ SIM800L (GSM communication)
 NEO-6M GPS (location tracking)
 
 
-Power is handled using a TP4056 charger, LM2596 step-down regulator, and MT3608 step-up regulator to ensure stable voltages for all components.
-
-
-# 📡 What This Device Does
+# What This Device Does
 
 Reads GPS coordinates
 
@@ -27,33 +24,13 @@ Charges over USB-C
 
 Will later be built on a custom PCB and enclosed in a printed case
 
-This makes it useful for emergency location beacons, asset tracking, or basic IoT devices.
 
+# Project Roadmap
 
-# 🧩 Main Components
+ []Build a working breadboard prototype
 
-Arduino Nano
+ []Write and test the full firmware
 
-SIM800L GSM Module
+ [x]Finish PCB
 
-NEO-6M GPS Module
-
-TP4056 Charger Board
-
-LM2596 Step-Down Regulator
-
-MT3608 Step-Up Booster
-
-Tactile button
-
-Support capacitors
-
-# 🗺️ Project Roadmap
-
- Build a working breadboard prototype
-
- Write and test the full firmware
-
- Finish and order the PCB
-
- Design and print the case
+ []Design and print the case
