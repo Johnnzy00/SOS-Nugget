@@ -21,7 +21,12 @@ Runs from a rechargeable Li-ion battery
 
 Charges over USB-C
 
-# Project Roadmap
+# PCB
+![PCB1(/PCB/pcb1.JPG)]
+![PCB2(/PCB/pcb2.JPG)]
+![PCB3(/PCB/pcb3.JPG)]
+
+# To do list
 - [ ] Build a working breadboard prototype
 
 - [ ] Write and test the full firmware
